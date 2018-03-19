@@ -1,10 +1,10 @@
 #
-require 'rubygems'
-require 'rake'
-require 'YAML'
+#require 'rubygems'
+#require 'rake'
+#require 'YAML'
 include FileUtils
-require 'rexml/document'
-require 'pathname'
+#require 'rexml/document'
+#require 'pathname'
 #  Exercise 1: A Good First Program
 puts "Hello World!"
 puts "Hello Again"
